@@ -14,7 +14,7 @@ console.log(num); */
     return (a + b);
 } */
 
-let calc = (a,b) => a + b
+/* let calc = (a,b) => a + b
 
 console.log(calc(3, 4));
 
@@ -37,5 +37,5 @@ let twelve = "12.2px";
 
 /* console.log(Math.round(twelve)); */
 console.log(parseInt(twelve));
-console.log(parseFloat(twelve));
+console.log(parseFloat(twelve)); */
 
